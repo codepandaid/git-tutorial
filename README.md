@@ -1,6 +1,6 @@
 # Belajar Git
 
-dari channel codepanda.id
+dari channel codepanda.id (https://www.youtube.com/playlist?list=PLM2HKtjUeZQiDc6b7ZRyqBaWkA9SWO-KZ)
 
 ## Basic Commands
 
